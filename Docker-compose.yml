@@ -3,7 +3,7 @@ version: '3.8'
 services:
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.9.0
-    container_name: elastic-search  # Changed container name to avoid conflict
+    container_name: elastic-search  
     environment:
       - node.name=elasticsearch
       - cluster.name=es-docker-cluster
@@ -18,7 +18,7 @@ services:
     volumes:
       - esdata:/usr/share/elasticsearch/data
     ports:
-      - "9201:9200"  # Changed port mapping to avoid conflict with existing container
+      - "9201:9200"  
     networks:
       - company-matcher
     healthcheck:

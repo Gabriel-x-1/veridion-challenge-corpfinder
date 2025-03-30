@@ -55,7 +55,6 @@ def create_visualizations(results, match_rate, test_type):
                 input_fields.extend(result['input'].keys())
             field_counts = pd.Series(input_fields).value_counts()
             
-            # Create bar plot manually instead of using seaborn
             plt.bar(range(len(field_counts)), field_counts.values)
             plt.xticks(range(len(field_counts)), field_counts.index, rotation=45)
             plt.title('Distribution of Input Fields')
