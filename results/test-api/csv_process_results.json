@@ -1,0 +1,1120 @@
+{
+  "match_rate": "100.00%",
+  "matched_count": 32,
+  "results": [
+    {
+      "input": {
+        "facebook": "https://www.facebook.com/acornfurnitureworkshops",
+        "name": "Acorn Law P.C.",
+        "phone": "",
+        "website": "https://https//acornlawpc.com/"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Acorn Law P.C. | Acorn Law | Acorn Law P",
+        "company_commercial_name": "Acorn Law P.C.",
+        "company_id": "229",
+        "company_legal_name": "Acorn Law P.C.",
+        "domain": "acornlawpc.com",
+        "facebook_links": [
+          "facebook.com/acornlaw"
+        ],
+        "facebook_links_normalized": [
+          "acornlaw"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [
+          "linkedin.com/in/marcmackenzie"
+        ],
+        "match_score": 5.0,
+        "phones": [
+          "8054093878"
+        ],
+        "phones_normalized": [
+          "8054093878"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/Acorn_Law"
+        ],
+        "website": "http://acornlawpc.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Advance Net Support",
+        "phone": " (786) 426-3492",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Advance Network Support | ADVANCE NETWORK SUPPORT INC",
+        "company_commercial_name": "Advance Network Support",
+        "company_id": "378",
+        "company_legal_name": "ADVANCE NETWORK SUPPORT INC",
+        "domain": "advancenetsupport.com",
+        "facebook_links": [
+          "facebook.com/profile.php",
+          "facebook.com/share"
+        ],
+        "facebook_links_normalized": [
+          "profile.php",
+          "share"
+        ],
+        "instagram_links": [
+          "instagram.com/advancenetworksupport"
+        ],
+        "linkedin_links": [
+          "linkedin.com/company/106028228"
+        ],
+        "match_score": 12.130434782608695,
+        "phones": [
+          "7864263492",
+          "786426349278642",
+          "664873053066487",
+          "786426349230530"
+        ],
+        "phones_normalized": [
+          "7864263492",
+          "6349278642",
+          "3053066487",
+          "6349230530"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/share"
+        ],
+        "website": "http://advancenetsupport.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Aroostook",
+        "phone": "207.762.9321",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Aroostook Technologies | Aroostook Technologies Inc.",
+        "company_commercial_name": "Aroostook Technologies",
+        "company_id": "253",
+        "company_legal_name": "Aroostook Technologies Inc.",
+        "domain": "aroostooktechnologies.com",
+        "facebook_links": [
+          "facebook.com/AroostookTechnologies"
+        ],
+        "facebook_links_normalized": [
+          "aroostooktechnologies"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 2.0454545454545454,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://aroostooktechnologies.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "&AWL",
+        "phone": "",
+        "website": "awlsnap.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Awl Snap Leather Goods | Awl Snap | Awl Snap LLC.",
+        "company_commercial_name": "Awl Snap Leather Goods",
+        "company_id": "952",
+        "company_legal_name": "Awl Snap LLC.",
+        "domain": "awlsnap.com",
+        "facebook_links": [
+          "facebook.com/awlsnap"
+        ],
+        "facebook_links_normalized": [
+          "awlsnap"
+        ],
+        "instagram_links": [
+          "instagram.com/awlsnap"
+        ],
+        "linkedin_links": [],
+        "match_score": 10.76923076923077,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://awlsnap.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "RyanLBatesDDS",
+        "phone": "(509) 276-6996",
+        "website": "google.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Woodstock Masonic Lodge 246 | Woodstock Masonic Lodge",
+        "company_commercial_name": "Woodstock Masonic Lodge 246",
+        "company_id": "295",
+        "company_legal_name": "nan",
+        "domain": "woodstocklodge246.org",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 1.0879799,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://woodstocklodge246.org",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Cadott Family Restaurant Limited",
+        "phone": "715.978.0027",
+        "website": "google.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Cadott Family Restaurant | Cadott Family",
+        "company_commercial_name": "Cadott Family Restaurant",
+        "company_id": "348",
+        "company_legal_name": "nan",
+        "domain": "cadottfamilyrestaurant.com",
+        "facebook_links": [
+          "facebook.com/cadottfamilyrestaurant"
+        ],
+        "facebook_links_normalized": [
+          "cadottfamilyrestaurant"
+        ],
+        "instagram_links": [
+          "instagram.com/cadottfamilyrestaurant"
+        ],
+        "linkedin_links": [],
+        "match_score": 11.75,
+        "phones": [
+          "547277159780027"
+        ],
+        "phones_normalized": [
+          "7159780027"
+        ],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://cadottfamilyrestaurant.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Denham's Florist Inc",
+        "phone": "(706) 685.0182",
+        "website": "http://dreamservicesoftware.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Denham's Florist",
+        "company_commercial_name": "Denham's Florist",
+        "company_id": "776",
+        "company_legal_name": "nan",
+        "domain": "denhamsflorist.com",
+        "facebook_links": [
+          "facebook.com/pages"
+        ],
+        "facebook_links_normalized": [
+          "pages"
+        ],
+        "instagram_links": [
+          "instagram.com/denhamsflorist"
+        ],
+        "linkedin_links": [],
+        "match_score": 12.0,
+        "phones": [
+          "7066850182"
+        ],
+        "phones_normalized": [
+          "7066850182"
+        ],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://denhamsflorist.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Garrett-Wietholter-State-Farm-Agent",
+        "phone": "(317) 873-3230",
+        "website": "google.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Garrett Wietholter | Garrett Wietholter - State Farm Insurance Agent | Garrett Wietholter Ins Agy Inc.",
+        "company_commercial_name": "Garrett Wietholter",
+        "company_id": "23",
+        "company_legal_name": "Garrett Wietholter Ins Agy Inc.",
+        "domain": "garrettwietholter.com",
+        "facebook_links": [
+          "facebook.com/153341281385570"
+        ],
+        "facebook_links_normalized": [
+          "153341281385570"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [
+          "linkedin.com/in/garrett-wietholter-b5037a88"
+        ],
+        "match_score": 10.571428571428571,
+        "phones": [
+          "178733230",
+          "617100001",
+          "3178733230",
+          "178738958",
+          "3096225001"
+        ],
+        "phones_normalized": [
+          "178733230",
+          "617100001",
+          "3178733230",
+          "178738958",
+          "3096225001"
+        ],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://garrettwietholter.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://www.facebook.com/GSSstrings/",
+        "name": "GSS",
+        "phone": "",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Siman Tov. | Siman Tov Mazel Tov. | Simon Tov Chosen Kalle Mazel Tov. | Golden Scroll Soloists | Simon Tov.",
+        "company_commercial_name": "Golden Scroll Soloists",
+        "company_id": "700",
+        "company_legal_name": "Siman Tov Mazel Tov.",
+        "domain": "goldenscrollsoloists.com",
+        "facebook_links": [
+          "facebook.com/GSSstrings"
+        ],
+        "facebook_links_normalized": [
+          "gssstrings"
+        ],
+        "instagram_links": [
+          "instagram.com/goldenscrollsoloists"
+        ],
+        "linkedin_links": [],
+        "match_score": 6,
+        "phones": [
+          "20052025",
+          "8609495609"
+        ],
+        "phones_normalized": [
+          "20052025",
+          "8609495609"
+        ],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://goldenscrollsoloists.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Hueboost Services //",
+        "phone": "(+877) 449-5079",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "PC Touch Services | PC Touch Services Inc. | Pc Touch Svc. Inc.",
+        "company_commercial_name": "PC Touch Services",
+        "company_id": "54",
+        "company_legal_name": "PC Touch Services Inc.",
+        "domain": "pctouchservices.com",
+        "facebook_links": [
+          "facebook.com/home.php"
+        ],
+        "facebook_links_normalized": [
+          "home.php"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 2.5,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/mayisad"
+        ],
+        "website": "http://pctouchservices.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "American Inns of Court Company",
+        "phone": "+1703-684-3590",
+        "website": "innsc.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "American Inns of Court Foundation | American Inns of Court",
+        "company_commercial_name": "American Inns of Court Foundation",
+        "company_id": "585",
+        "company_legal_name": "nan",
+        "domain": "innsofcourt.org",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 3.787878787878788,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://innsofcourt.org",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "JETT Business Technology LTD",
+        "phone": "(678) 387-5715",
+        "website": "https://www.google.com/"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "JETT Business Technology | UniSys Corporation",
+        "company_commercial_name": "JETT Business Technology",
+        "company_id": "623",
+        "company_legal_name": "nan",
+        "domain": "jettbt.com",
+        "facebook_links": [
+          "facebook.com/tr",
+          "facebook.com/JETTBusinessTechnology"
+        ],
+        "facebook_links_normalized": [
+          "tr",
+          "jettbusinesstechnology"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [
+          "linkedin.com/company/jett-business-technology"
+        ],
+        "match_score": 12.285714285714286,
+        "phones": [
+          "6783875715",
+          "6783875717",
+          "61781060"
+        ],
+        "phones_normalized": [
+          "6783875715",
+          "6783875717",
+          "61781060"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/JETTBusinessTec"
+        ],
+        "website": "http://jettbt.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://www.facebook.com/musselrockcloggers/",
+        "name": "NCCA Inc.",
+        "phone": "207.762.9321",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Clock Inc. | Free Clock Inc.",
+        "company_commercial_name": "Clock Inc.",
+        "company_id": "61",
+        "company_legal_name": "Clock Inc.",
+        "domain": "clockinc.org",
+        "facebook_links": [
+          "facebook.com/designs.chasing",
+          "facebook.com/clock.inc.qc"
+        ],
+        "facebook_links_normalized": [
+          "designs.chasing",
+          "clock.inc.qc"
+        ],
+        "instagram_links": [
+          "instagram.com/clockinclgbt"
+        ],
+        "linkedin_links": [
+          "linkedin.com/in/clockinc"
+        ],
+        "match_score": 3.0,
+        "phones": [
+          "3095580956"
+        ],
+        "phones_normalized": [
+          "3095580956"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/clockincLGBT"
+        ],
+        "website": "http://clockinc.org",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "NY AL Elevator",
+        "phone": "",
+        "website": "elevator.io"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "NY NJ Elevator Corp. | Nynjelevator | NY NJ Elevator Co. | NJ Elevator Corp.",
+        "company_commercial_name": "NY NJ Elevator Corp.",
+        "company_id": "893",
+        "company_legal_name": "NY NJ Elevator Corp.",
+        "domain": "nynjelevator.com",
+        "facebook_links": [
+          "facebook.com/NYNJElevatorCo"
+        ],
+        "facebook_links_normalized": [
+          "nynjelevatorco"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [
+          "linkedin.com/company/ny-nj-elevator-co"
+        ],
+        "match_score": 3.0,
+        "phones": [
+          "8885693042"
+        ],
+        "phones_normalized": [
+          "8885693042"
+        ],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://nynjelevator.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "NY Staffing LLC.",
+        "phone": "",
+        "website": "nyexecstaffing.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Pro-Exec Staffing LLC. | Pro Exec Staffing",
+        "company_commercial_name": "Pro-Exec Staffing LLC.",
+        "company_id": "85",
+        "company_legal_name": "Pro-Exec Staffing LLC.",
+        "domain": "proexecstaffing.com",
+        "facebook_links": [
+          "facebook.com/proexecstaffing"
+        ],
+        "facebook_links_normalized": [
+          "proexecstaffing"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [
+          "linkedin.com/company/pro-exec-staffing"
+        ],
+        "match_score": 3.1818181818181817,
+        "phones": [
+          "7132482245"
+        ],
+        "phones_normalized": [
+          "7132482245"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/exec_pro"
+        ],
+        "website": "http://proexecstaffing.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://facebook.com/puppetheap",
+        "name": "Puppet Heap USA",
+        "phone": "",
+        "website": "puppet.io"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Puppet Heap | Puppet Heap LLC.",
+        "company_commercial_name": "Puppet Heap",
+        "company_id": "482",
+        "company_legal_name": "Puppet Heap LLC.",
+        "domain": "puppetheap.com",
+        "facebook_links": [
+          "facebook.com/puppetheap",
+          "facebook.com/2008"
+        ],
+        "facebook_links_normalized": [
+          "puppetheap",
+          "2008"
+        ],
+        "instagram_links": [
+          "instagram.com/puppetheap"
+        ],
+        "linkedin_links": [
+          "linkedin.com/company/puppetheap"
+        ],
+        "match_score": 9.75,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://puppetheap.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "SafetyChain Software Services Pty. Ltd.",
+        "phone": "",
+        "website": "https://safetychain.com/about-us"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "SafetyChain Software | Safety Chain | SafetyChain Software Inc.",
+        "company_commercial_name": "SafetyChain Software",
+        "company_id": "891",
+        "company_legal_name": "SafetyChain Software Inc.",
+        "domain": "safetychain.com",
+        "facebook_links": [
+          "facebook.com/safetychain"
+        ],
+        "facebook_links_normalized": [
+          "safetychain"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [
+          "linkedin.com/company/safetychain-software"
+        ],
+        "match_score": 12.948717948717949,
+        "phones": [
+          "949458882357540"
+        ],
+        "phones_normalized": [
+          "8882357540"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/safetychain"
+        ],
+        "website": "http://safetychain.com",
+        "youtube_links": [
+          "youtube.com/channel/UCMSYeHBHsysxGcSsGBdZEhA"
+        ]
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://www.facebook.com/SBS-Transport-LLC-101932885163238",
+        "name": "SBS*",
+        "phone": "",
+        "website": "http://sbstransportllc.com/index.html?lang=en"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "SBS Transport | SBS Transport LLC.",
+        "company_commercial_name": "SBS Transport",
+        "company_id": "343",
+        "company_legal_name": "SBS Transport LLC.",
+        "domain": "sbstransportllc.com",
+        "facebook_links": [
+          "facebook.com/101932885163238"
+        ],
+        "facebook_links_normalized": [
+          "101932885163238"
+        ],
+        "instagram_links": [
+          "instagram.com/sbstransportllc"
+        ],
+        "linkedin_links": [],
+        "match_score": 17.153846153846153,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://sbstransportllc.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://www.facebook.com/SteppIR/",
+        "name": "SteppIR Tree Services",
+        "phone": "",
+        "website": "steppir.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "SteppIR Communication Systems | SteppIR | SteppIR Inc.",
+        "company_commercial_name": "SteppIR Communication Systems",
+        "company_id": "56",
+        "company_legal_name": "SteppIR Inc.",
+        "domain": "steppir.com",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 12.142857142857142,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://steppir.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Templo Ebenezer Weslaco Holding",
+        "phone": "(956) 968-8142",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "TEMPLO EBENEZER WESLACO",
+        "company_commercial_name": "TEMPLO EBENEZER WESLACO",
+        "company_id": "277",
+        "company_legal_name": "nan",
+        "domain": "temploebenezerweslaco.com",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 3.709677419354839,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://temploebenezerweslaco.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "The Greenwich Cincinnati",
+        "phone": "+1513-221-1151",
+        "website": ""
+      },
+      "match": {
+        "addresses": [
+          "2442 Gilbert Ave.\nCincinnati, OH 45206"
+        ],
+        "company_all_names": "The Greenwich",
+        "company_commercial_name": "The Greenwich",
+        "company_id": "653",
+        "company_legal_name": "nan",
+        "domain": "the-greenwich.com",
+        "facebook_links": [
+          "facebook.com/pages"
+        ],
+        "facebook_links_normalized": [
+          "pages"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 10.708333333333334,
+        "phones": [
+          "5132211151"
+        ],
+        "phones_normalized": [
+          "5132211151"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/thegreenwich"
+        ],
+        "website": "http://the-greenwich.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://facebook.com/bluemercury",
+        "name": "Inc. Mercury",
+        "phone": "",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Bluemercury | Bluemercury Inc.",
+        "company_commercial_name": "Bluemercury",
+        "company_id": "502",
+        "company_legal_name": "Bluemercury Inc.",
+        "domain": "bluemercury.com",
+        "facebook_links": [
+          "facebook.com/bluemercury"
+        ],
+        "facebook_links_normalized": [
+          "bluemercury"
+        ],
+        "instagram_links": [
+          "instagram.com/bluemercury"
+        ],
+        "linkedin_links": [],
+        "match_score": 6,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://bluemercury.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://www.facebook.com/totalseal.pistonrings/",
+        "name": "Total Seal Inc.",
+        "phone": "",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Total Seal Piston Rings | Total Seal | Total Seal Inc.",
+        "company_commercial_name": "Total Seal Piston Rings",
+        "company_id": "782",
+        "company_legal_name": "Total Seal Inc.",
+        "domain": "totalseal.com",
+        "facebook_links": [
+          "facebook.com/totalseal.pistonrings"
+        ],
+        "facebook_links_normalized": [
+          "totalseal.pistonrings"
+        ],
+        "instagram_links": [
+          "instagram.com/total.seal"
+        ],
+        "linkedin_links": [],
+        "match_score": 11.0,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://totalseal.com",
+        "youtube_links": [
+          "youtube.com/channel/UCwcu9GQ0tsjaWGcn0bKAr3Q"
+        ]
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "True Audio Services",
+        "phone": "865-494-3388",
+        "website": "trueaudio.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "True Audio",
+        "company_commercial_name": "True Audio",
+        "company_id": "22",
+        "company_legal_name": "nan",
+        "domain": "trueaudio.com",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 12.631578947368421,
+        "phones": [
+          "19902024"
+        ],
+        "phones_normalized": [
+          "19902024"
+        ],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://trueaudio.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "ViruStar LLC.",
+        "phone": "",
+        "website": "viru.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "ViruStar LLC. | VirusStar LLC.",
+        "company_commercial_name": "ViruStar LLC.",
+        "company_id": "166",
+        "company_legal_name": "ViruStar LLC.",
+        "domain": "virustarllc.com",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 5.0,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://virustarllc.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "W. Works Holding(s)",
+        "phone": "",
+        "website": "wworks.net"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Chips & Wafers Inc. | C&W Energy Solutions LLC. | C&W Energy USA | Wafers Inc. | C&W Energy Solutions",
+        "company_commercial_name": "C&W Energy Solutions",
+        "company_id": "359",
+        "company_legal_name": "C&W Energy Solutions LLC.",
+        "domain": "cwenergyusa.com",
+        "facebook_links": [
+          "facebook.com/cwenergyusa"
+        ],
+        "facebook_links_normalized": [
+          "cwenergyusa"
+        ],
+        "instagram_links": [],
+        "linkedin_links": [
+          "linkedin.com/company/cwenergy"
+        ],
+        "match_score": 1.4000000000000001,
+        "phones": [
+          "4809981694"
+        ],
+        "phones_normalized": [
+          "4809981694"
+        ],
+        "status": "success",
+        "twitter_links": [
+          "twitter.com/cwenergyusa1"
+        ],
+        "website": "http://cwenergyusa.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://www.facebook.com/workitstudio/",
+        "name": "Forge Marketing & Management Pty.",
+        "phone": "",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Work It! Studio by WandaWoman | Work It! Studio | Forge Marketing & Management Pty.",
+        "company_commercial_name": "Work It! Studio by WandaWoman",
+        "company_id": "71",
+        "company_legal_name": "Forge Marketing & Management Pty.",
+        "domain": "workitstudio.com",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 5.0,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://workitstudio.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "A W Brueggemann Co.",
+        "phone": "",
+        "website": "awbrueggemann.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "A W Brueggemann Co. | A.W. Brueggemann | A.W. Brueggemann Company Inc.",
+        "company_commercial_name": "A W Brueggemann Co.",
+        "company_id": "564",
+        "company_legal_name": "A W Brueggemann Co.",
+        "domain": "awbrueggemann.com",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 15.0,
+        "phones": [
+          "5802370068",
+          "737015802373857",
+          "20250120"
+        ],
+        "phones_normalized": [
+          "5802370068",
+          "5802373857",
+          "20250120"
+        ],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://awbrueggemann.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Blue Ridge Chair - Limited",
+        "phone": "",
+        "website": "https://www.blueridgechair.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Blue Ridge Chair | Blue Ridge Chair Works | Blue Ridge Chair - Limited",
+        "company_commercial_name": "Blue Ridge Chair",
+        "company_id": "674",
+        "company_legal_name": "Blue Ridge Chair - Limited",
+        "domain": "blueridgechair.com",
+        "facebook_links": [
+          "facebook.com/pages"
+        ],
+        "facebook_links_normalized": [
+          "pages"
+        ],
+        "instagram_links": [
+          "instagram.com/blueridgechairworks"
+        ],
+        "linkedin_links": [],
+        "match_score": 15.0,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://blueridgechair.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "Cedar Work Inc.",
+        "phone": "",
+        "website": "cedarwork.org"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Cedar Work | Cedar Work International",
+        "company_commercial_name": "Cedar Work",
+        "company_id": "258",
+        "company_legal_name": "nan",
+        "domain": "cedarwork.org",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 13.333333333333334,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://cedarwork.org",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "https://facebook.com/bluemercury",
+        "name": "Inc.",
+        "phone": "",
+        "website": ""
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "Bluemercury | Bluemercury Inc.",
+        "company_commercial_name": "Bluemercury",
+        "company_id": "502",
+        "company_legal_name": "Bluemercury Inc.",
+        "domain": "bluemercury.com",
+        "facebook_links": [
+          "facebook.com/bluemercury"
+        ],
+        "facebook_links_normalized": [
+          "bluemercury"
+        ],
+        "instagram_links": [
+          "instagram.com/bluemercury"
+        ],
+        "linkedin_links": [],
+        "match_score": 6,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://bluemercury.com",
+        "youtube_links": []
+      }
+    },
+    {
+      "input": {
+        "facebook": "",
+        "name": "..",
+        "phone": "",
+        "website": "steppir.com"
+      },
+      "match": {
+        "addresses": [],
+        "company_all_names": "SteppIR Communication Systems | SteppIR | SteppIR Inc.",
+        "company_commercial_name": "SteppIR Communication Systems",
+        "company_id": "56",
+        "company_legal_name": "SteppIR Inc.",
+        "domain": "steppir.com",
+        "facebook_links": [],
+        "facebook_links_normalized": [],
+        "instagram_links": [],
+        "linkedin_links": [],
+        "match_score": 10,
+        "phones": [],
+        "phones_normalized": [],
+        "status": "success",
+        "twitter_links": [],
+        "website": "http://steppir.com",
+        "youtube_links": []
+      }
+    }
+  ],
+  "status": "success",
+  "total_count": 32
+}

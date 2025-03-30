@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.9.0
+    container_name: elastic-search  # Changed container name to avoid conflict
+    environment:
+      - node.name=elasticsearch
+      - cluster.name=es-docker-cluster
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - xpack.security.enabled=false
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    ports:
+      - "9201:9200"  # Changed port mapping to avoid conflict with existing container
+    networks:
+      - company-matcher
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9200"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  company-matcher:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: company-matcher
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    environment:
+      - ELASTICSEARCH_HOST=elastic-search
+      - ELASTICSEARCH_PORT=9200
+    volumes:
+      - ./data:/app/data
+      - ./results:/app/results
+    ports:
+      - "5000:5000"
+    networks:
+      - company-matcher
+
+networks:
+  company-matcher:
+    driver: bridge
+
+volumes:
+  esdata:
+    driver: local
