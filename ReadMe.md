@@ -197,7 +197,7 @@ These visualizations provide immediate insights into data quality, extraction su
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/company-data-api.git
+git clone https://github.com/Gabriel-x-1/veridion-challenge-corpfinder
 cd company-data-api
 ```
 
